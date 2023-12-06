@@ -1,4 +1,6 @@
-.vermelho {
+/* No caso, o estilo só vai sei aplicado aos filhos da classe .integracao1 */
+
+.integracao1 .vermelho {
     color: red;
 }
 
